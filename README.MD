@@ -1,4 +1,4 @@
-# HTML (CSS-JavaScript) oldalak szerkeszése Visual Studio Code-al
+# HTML oldalak szerkeszése Visual Studio Code-al
 
 ## Fejlesztői környezet telepítése, beállítása (Windows)
 1.  Node.js letöltése, telepítése:<br>
