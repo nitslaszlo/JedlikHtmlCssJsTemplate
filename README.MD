@@ -4,8 +4,7 @@
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag(ok) telepítése:<br>
-    "npm install -g jshint"<br>
-    parancsal<br>
+    "npm install -g jshint"  parancsal<br>
     Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm"<br> parancs nem található:<br>
       - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
       - "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
