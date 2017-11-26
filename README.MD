@@ -62,7 +62,10 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
     - Nyomkövetés: F5-el<br>
     .vscode\launch.json fájlban a port (8080) átírása 5050-re!
 
-11. vscode-pdf<br>
+11. CSS Peek<br>
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+12. vscode-pdf<br>
 https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## Hasznos linkek:
