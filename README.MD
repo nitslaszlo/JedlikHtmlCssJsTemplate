@@ -57,10 +57,10 @@ https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intell
 
 10. Live Server<br>
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
-- Töréspontok elhelyezése a JavaScript kódban
-- Live Server indítása
-- Nyomkövetés: F5-el<br>
-.vscode\launch.json fájlban a port (8080) átírása 5050-re!
+    - Töréspontok elhelyezése a JavaScript kódban
+    - Live Server indítása
+    - Nyomkövetés: F5-el<br>
+    .vscode\launch.json fájlban a port (8080) átírása 5050-re!
 
 11. vscode-pdf<br>
 https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
