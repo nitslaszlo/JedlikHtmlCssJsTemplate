@@ -6,7 +6,7 @@
 2.  Node.js command prompt, globális Node.js csomag(ok) telepítése:<br>
     "npm install -g jshint"<br>
     parancsal<br>
-    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "tsc"<br> parancs nem található:<br>
+    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm"<br> parancs nem található:<br>
       - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
       - "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
 2.  Git for windows telepítése (opcionális, git-hez):<br>
@@ -15,9 +15,9 @@
     https://code.visualstudio.com/docs/setup/setup-overview
 4.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt kiterjesztéseket lsd. a következő pontban!<br>
+    Javasolt (12db) kiterjesztéseket lsd. a következő pontban!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
-5.  Billentyűkombinációk beállítása: 
+5.  Billentyűkombinációk beállítása (opcionális):<br> 
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
     Parancs keresése: gépeléssel<br>
     Hozzárendelés, módosítás: "ceruza" ikonra kattíntással, törlés: Del bill.<br>
@@ -41,7 +41,7 @@ https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
 
 5. JSHint 0.10.15<br>
 https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint
-Telepíteni: npm install -g jshint
+Telepíteni kellett korábban: npm install -g jshint
 
 6. open in browser 1.1.0<br>
 https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
@@ -57,12 +57,12 @@ https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intell
 
 10. Live Server<br>
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
-    - Töréspontok elhelyezése a JavaScript kódban
-    - Live Server indítása
+    - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
+    - Live Server indítása (állapotsorban "Go Live")
     - Nyomkövetés: F5-el<br>
-    .vscode\launch.json fájlban a port (8080) átírása 5050-re!
+    (.vscode\launch.json fájlban a port (8080) átírása 5050-re!)
 
-11. CSS Peek<br>
+11. CSS Peek 1.3.1<br>
 https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
 12. vscode-pdf<br>
@@ -94,10 +94,10 @@ https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
     bin<br>
     (További mappák és fájlok megadhatóak, melyek nem kerülnek "feltöltésre")<br>
     Ctrl-S -> mentés
-5. Git inicializálása a 3. ("Y") ikonnal vagy Ctrl-Shift-G<br>
+6. Git inicializálása a 3. ("Y") ikonnal vagy Ctrl-Shift-G<br>
    majd "Initialize Repository"-ra kattint (felül)
-6. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
-7. Remote repository megadása új terminál ablakból (Ctr-Shift-ö)
+7. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
+8. Remote repository megadása új terminál ablakból (Ctr-Shift-ö)
    - "git remote add origin https://github.com/nitslaszlo/JedlikHtmlCssTemplate.git"
    - "git push -u origin master"
 
