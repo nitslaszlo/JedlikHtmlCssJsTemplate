@@ -5,17 +5,17 @@
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag(ok) telepítése:<br>
     "npm install -g jshint"<br>
-    parancsa<br>
+    parancsal<br>
     Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "tsc"<br> parancs nem található:<br>
-      1. Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
-      2. "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
+      - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
+      - "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
 2.  Git for windows telepítése (opcionális, git-hez):<br>
     https://git-for-windows.github.io/
 3.  Visual Studio Code (továbbiakban VSCode) telepítése:<br>
     https://code.visualstudio.com/docs/setup/setup-overview
 4.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt kiterjesztéseket lsd. a következő pontban!
+    Javasolt kiterjesztéseket lsd. a következő pontban!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
 5.  Billentyűkombinációk beállítása: 
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
@@ -93,7 +93,7 @@ https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
    majd "Initialize Repository"-ra kattint (felül)
 6. Ctrl-Shift-G -> Commit message megadása, majd commit Ctrl-Enter -el
 7. Remote repository megadása új terminál ablakból (Ctr-Shift-ö)
-   - "git remote add origin https://github.com/nitslaszlo/JedlikCsharpTemplate.git"
+   - "git remote add origin https://github.com/nitslaszlo/JedlikHtmlCssTemplate.git"
    - "git push -u origin master"
 
 ### Fel/le töltés GitHub-ra későbbiekben:
