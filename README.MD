@@ -27,44 +27,46 @@
 
 
 ## Javasolt kiterjesztések és bemutatásuk:
-1. HTML Snippets
+1. HTML Snippets<br>
 https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 
-2. Debugger for Chrome
+2. Debugger for Chrome<br>
 https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
-3. HTML CSS Support
+3. HTML CSS Support<br>
 https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
-4. HTMLHint
+4. HTMLHint<br>
 https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
 
-5. JSHint 0.10.15
+5. JSHint 0.10.15<br>
 https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint
 Telepíteni: npm install -g jshint
 
-6. open in browser 1.1.0
+6. open in browser 1.1.0<br>
 https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 
-7. Auto Rename Tag
+7. Auto Rename Tag<br>
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-8. htmltagwrap
+8. htmltagwrap<br>
 https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
 
-9. Path Intellisense
+9. Path Intellisense<br>
 https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 
-10. Live Server
+10. Live Server<br>
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 Nyomkövetés: F5
 .vscode\launch.json fájlban a port (8080) átírása 5050-re!
 
-11. vscode-pdf
+11. vscode-pdf<br>
 https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## Hasznos linkek:
-- https://code.visualstudio.com/docs
+- https://code.visualstudio.com/docs/languages/html
+- https://code.visualstudio.com/docs/languages/css
+- https://code.visualstudio.com/docs/languages/javascript
 - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - https://github.com/Microsoft/vscode-tips-and-tricks
 - https://git-scm.com/book/en/v2
