@@ -40,7 +40,7 @@ https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
 
 5. ESLint 1.4.4<br>
 https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-Telepíteni kellett korábban: npm install -g eslint
+Telepíteni kellett korábban hozzá: npm install -g eslint
 
 6. open in browser 1.1.0<br>
 https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
