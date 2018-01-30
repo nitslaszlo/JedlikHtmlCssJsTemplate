@@ -4,7 +4,7 @@
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag(ok) telepítése:<br>
-    "npm install -g jshint"  parancsal<br>
+    "npm install -g eslint"  parancsal<br>
     Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm"<br> parancs nem található:<br>
       - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
       - "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
@@ -26,8 +26,8 @@
 
 
 ## Javasolt kiterjesztések és bemutatásuk:
-1. HTML Snippets<br>
-https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+1. vscode-icons 7.19.0<br>
+https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
 
 2. Debugger for Chrome<br>
 https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
@@ -38,9 +38,9 @@ https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 4. HTMLHint<br>
 https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
 
-5. JSHint 0.10.15<br>
-https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint
-Telepíteni kellett korábban: npm install -g jshint
+5. ESLint 1.4.4<br>
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+Telepíteni kellett korábban: npm install -g eslint
 
 6. open in browser 1.1.0<br>
 https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
