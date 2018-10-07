@@ -4,18 +4,15 @@
 
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
-2.  Node.js command prompt, globális Node.js csomag(ok) telepítése:<br>
+2.  Node.js command prompt, globális Node.js csomag telepítése:<br>
     "npm install -g eslint" parancsal<br>
-    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm"<br> parancs nem található:<br>
-    - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Új...
-    - "%APPDATA%\npm" hozzáadása (idézőjelek nélkül)
 3.  Git for windows telepítése (opcionális, git-hez):<br>
     https://git-for-windows.github.io/
 4.  Visual Studio Code (User Installer) telepítése:<br>
     https://code.visualstudio.com/Download<br>
     (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
-5.  Jedlik AD hiba - PATH "megtelik..."
-    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm", "vue" vagy<br>
+5.  Jedlikes AD hiba - PATH "megtelik..."
+    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm" vagy<br>
     "code ." parancs nem található:<br>
     - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
     - Ismétlődő PATH bejegyzések törlése a Rendszeváltozóknál
@@ -25,7 +22,7 @@
       - "%APPDATA%\npm"
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt (15db) kiterjesztéseket lsd. a következő pontban!<br>
+    Javasolt (15db) kiterjesztéseket lsd. lejjebb!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
 7.  Billentyűkombinációk beállítása (opcionális):<br>
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
@@ -35,7 +32,7 @@
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 8.  Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt kiterjesztések és bemutatásuk:
+## Javasolt 15db kiterjesztés:
 
 1. Auto Close Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
@@ -88,6 +85,15 @@
 
 15. vscode-pdf<br>
     https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+
+## GitHub JedlikHtmlCssJsTemplate repó klónozása
+1. Parancsor (CMD.EXE) indítása
+2. Szülő könyvtár kijelőlése pl.: cd D:\HTMLprojektek
+3. git clone https://github.com/nitslaszlo/JedlikHtmlCssJsTemplate
+4. Project mappa átnevezése pl.: ren JedlikHtmlCssJsTemplate myNewHtmlProject
+5. cd myNewHtmlProject
+6. ".git" mappa törlése: rd /s /q .git
+7. VS Code indítása: code .
 
 ## Hasznos linkek:
 
