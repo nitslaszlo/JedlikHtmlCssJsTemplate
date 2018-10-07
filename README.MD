@@ -25,7 +25,7 @@
       - "%APPDATA%\npm"
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt (13db) kiterjesztéseket lsd. a következő pontban!<br>
+    Javasolt (15db) kiterjesztéseket lsd. a következő pontban!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
 7.  Billentyűkombinációk beállítása (opcionális):<br>
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
@@ -37,51 +37,56 @@
 
 ## Javasolt kiterjesztések és bemutatásuk:
 
-1. vscode-icons<br>
-   https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
+1. Auto Close Tag<br>
+   https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
-2. Debugger for Chrome<br>
-   https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
-
-3. HTML CSS Support<br>
-   https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-
-4. HTMLHint<br>
-   https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
-
-5. ESLint<br>
-   https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-   Telepíteni kellett korábban hozzá: npm install -g eslint
-
-6. Beautify<br>
-   https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
-
-7. open in browser<br>
-   https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
-
-8. Auto Rename Tag<br>
+2. Auto Rename Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-9. Auto Close Tag<br>
-   https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+3. Beautify<br>
+   https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+
+4. CSS Peek<br>
+   https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+5. Debugger for Chrome<br>
+   https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+
+6. ESLint<br>
+   https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint<br>
+   Telepíteni kellett korábban hozzá: npm install -g eslint<br>
+   Dokumentáció: https://eslint.org/docs/rules/<br>
+   Konfigurátor: http://rapilabs.github.io/eslintrc-generator/<br>
+
+7. Formatting Toggle
+   https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle
+
+8. HTML CSS Support<br>
+   https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+
+9. HTMLHint<br>
+   https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
 
 10. htmltagwrap<br>
     https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
 
-11. Path Intellisense<br>
-    https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-
-12. Live Server<br>
+11. Live Server<br>
     https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
 
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el<br>
       (.vscode\launch.json fájlban a port (8080) átírása 5050-re!)
 
-13. CSS Peek<br>
-    https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+12. open in browser<br>
+   https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 
-14. vscode-pdf<br>
+13. Path Intellisense<br>
+    https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+14. vscode-icons<br>
+    https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
+
+15. vscode-pdf<br>
     https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## Hasznos linkek:
