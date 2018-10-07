@@ -55,32 +55,35 @@
    https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
    Telepíteni kellett korábban hozzá: npm install -g eslint
 
-6. open in browser<br>
+6. Beautify<br>
+   https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+
+7. open in browser<br>
    https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 
-7. Auto Rename Tag<br>
+8. Auto Rename Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-8. Auto Close Tag<br>
+9. Auto Close Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
-9. htmltagwrap<br>
-   https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
+10. htmltagwrap<br>
+    https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
 
-10. Path Intellisense<br>
+11. Path Intellisense<br>
     https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 
-11. Live Server<br>
+12. Live Server<br>
     https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
 
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el<br>
       (.vscode\launch.json fájlban a port (8080) átírása 5050-re!)
 
-12. CSS Peek<br>
+13. CSS Peek<br>
     https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
-13. vscode-pdf<br>
+14. vscode-pdf<br>
     https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## Hasznos linkek:
