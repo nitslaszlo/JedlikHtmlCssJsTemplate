@@ -78,7 +78,7 @@
       (.vscode\launch.json fájlban a port (8080) átírása 5050-re!)
 
 12. open in browser<br>
-   https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
+    https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
 
 13. Path Intellisense<br>
     https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense

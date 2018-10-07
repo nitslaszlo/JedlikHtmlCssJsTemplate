@@ -1,15 +1,11 @@
 function szamol() { // eslint-disable-line no-unused-vars
-    var sa = document.getElementById("a").value;
-    var sb = document.getElementById("b").value;
-    var sc = document.getElementById("c").value;
+    var a = parseFloat(document.getElementById("a").value);
+    var b = parseFloat(document.getElementById("b").value);
+    var c = parseFloat(document.getElementById("c").value);
     var gysz; //gyökök száma
-    if (isNaN(sa) || isNaN(sb) || isNaN(sc) || sa == "" || sb == "" || sc == "") {
+    if (isNaN(a) || isNaN(b) || isNaN(c)) {
         gysz = "hiba";
-    }
-    else {
-        var a = parseFloat(sa);
-        var b = parseFloat(sb);
-        var c = parseFloat(sc);
+    } else {
         var D = b * b - 4 * a * c;
         gysz = Math.sign(D) + 1;
     }
