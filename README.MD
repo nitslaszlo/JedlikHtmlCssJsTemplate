@@ -17,14 +17,12 @@
 5.  Jedlik AD hiba - PATH "megtelik..."
     Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm", "vue" vagy<br>
     "code ." parancs nem található:<br>
-
     - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
     - Ismétlődő PATH bejegyzések törlése a Rendszeváltozóknál
     - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
       - "C:\Program Files\nodejs\"
       - "%LocalAppData%\Programs\Microsoft VS Code\bin"
       - "%APPDATA%\npm"
-
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
     Javasolt (13db) kiterjesztéseket lsd. a következő pontban!<br>
