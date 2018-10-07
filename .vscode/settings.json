@@ -1,0 +1,6 @@
+{
+    "html.format.enable": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.formatOnSave": true
+}

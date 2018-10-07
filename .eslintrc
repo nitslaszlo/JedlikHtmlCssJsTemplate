@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+        "camelcase": [
+            1,
+            {
+                "properties": "always"
+            }
+        ],
+        "linebreak-style": [
+            1,
+            "windows"
+        ]
+    }
+}

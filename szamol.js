@@ -1,9 +1,8 @@
-function szamol() {
+function szamol() { // eslint-disable-line no-unused-vars
     var sa = document.getElementById("a").value;
     var sb = document.getElementById("b").value;
     var sc = document.getElementById("c").value;
     var gysz; //gyökök száma
-
     if (isNaN(sa) || isNaN(sb) || isNaN(sc) || sa == "" || sb == "" || sc == "") {
         gysz = "hiba";
     }
