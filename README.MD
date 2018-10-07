@@ -55,7 +55,7 @@
    Dokumentáció: https://eslint.org/docs/rules/<br>
    Konfigurátor: http://rapilabs.github.io/eslintrc-generator/<br>
 
-7. Formatting Toggle
+7. Formatting Toggle<br>
    https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle
 
 8. HTML CSS Support<br>
