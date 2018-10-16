@@ -6,6 +6,7 @@
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag telepítése:<br>
     "npm install -g eslint" parancsal<br>
+    "npm install -g htmlhint" parancsal<br>
 3.  Git for windows telepítése (opcionális, git-hez):<br>
     https://git-for-windows.github.io/
 4.  Visual Studio Code (User Installer) telepítése:<br>
