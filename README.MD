@@ -5,7 +5,6 @@
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag telepítése:<br>
-    "npm install -g eslint" parancsal<br>
     "npm install -g htmlhint" parancsal<br>
 3.  Git for windows telepítése (opcionális, git-hez):<br>
     https://git-for-windows.github.io/
@@ -23,69 +22,46 @@
       - "%APPDATA%\npm"
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt (15db) kiterjesztéseket lsd. lejjebb!<br>
+    Javasolt (7db) kiterjesztéseket lsd. lejjebb!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
 7.  Billentyűkombinációk beállítása (opcionális):<br>
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
     Parancs keresése: gépeléssel<br>
     Hozzárendelés, módosítás: "ceruza" ikonra kattíntással, törlés: Del bill.<br>
     - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
+    - gépel: "wrap" > parancs: "Wrap with Abbreviation" > hozzárendel: Ctrl-í
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 8.  Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt 15db kiterjesztés:
+## Javasolt 7db kiterjesztés:
 
-1. Auto Close Tag<br>
-   https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
-
-2. Auto Rename Tag<br>
+1. Auto Rename Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
-3. Beautify<br>
-   https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+2. Beautify<br>
+   https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify<br>
+   .jsbeautifyrc fájlt hozzál léte a project könyvtárban, ha az alapértelmezett beállítások nem megfelelőek:<br>
+   https://github.com/HookyQR/VSCodeBeautify/blob/master/Settings.md
 
-4. CSS Peek<br>
+3. CSS Peek<br>
    https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
-5. Debugger for Chrome<br>
+4. Debugger for Chrome<br>
    https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
-6. ESLint<br>
-   https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint<br>
-   Telepíteni kellett korábban hozzá: npm install -g eslint<br>
-   Dokumentáció: https://eslint.org/docs/rules/<br>
-   Konfigurátor: http://rapilabs.github.io/eslintrc-generator/<br>
-
-7. Formatting Toggle<br>
-   https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle
-
-8. HTML CSS Support<br>
+5. HTML CSS Support<br>
    https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
-9. HTMLHint<br>
-   https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint
+6. HTMLHint<br>
+   https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint<br>
+    Telepíteni kellett korábban hozzá: npm install -g htmlhint<br>
 
-10. htmltagwrap<br>
-    https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
-
-11. Live Server<br>
+7. Live Server<br>
     https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
-
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el<br>
-      (.vscode\launch.json fájlban a port (8080) átírása 5050-re!)
+      (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-12. open in browser<br>
-    https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
-
-13. Path Intellisense<br>
-    https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-
-14. vscode-icons<br>
-    https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
-
-15. vscode-pdf<br>
-    https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
 1. Parancsor (CMD.EXE) indítása
