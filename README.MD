@@ -1,11 +1,11 @@
-# HTML oldalak szerkeszése Visual Studio Code-al
+# HTML oldalak szerkesztése Visual Studio Code-al
 
 ## Fejlesztői környezet telepítése, beállítása (Windows)
 
 1.  Node.js letöltése, telepítése:<br>
     https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag telepítése:<br>
-    "npm install -g htmlhint" parancsal<br>
+    "npm install -g htmlhint" paranccsal<br>
 3.  Git for windows telepítése (opcionális, git-hez):<br>
     https://git-for-windows.github.io/
 4.  Visual Studio Code (User Installer) telepítése:<br>
@@ -15,7 +15,7 @@
     Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm" vagy<br>
     "code ." parancs nem található:<br>
     - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
-    - Ismétlődő PATH bejegyzések törlése a Rendszeváltozóknál
+    - Ismétlődő PATH bejegyzések törlése a Rendszerváltozóknál
     - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
       - "C:\Program Files\nodejs\"
       - "%LocalAppData%\Programs\Microsoft VS Code\bin"
@@ -27,7 +27,7 @@
 7.  Billentyűkombinációk beállítása (opcionális):<br>
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
     Parancs keresése: gépeléssel<br>
-    Hozzárendelés, módosítás: "ceruza" ikonra kattíntással, törlés: Del bill.<br>
+    Hozzárendelés, módosítás: "ceruza" ikonra kattintással, törlés: Del bill.<br>
     - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
     - gépel: "wrap" > parancs: "Wrap with Abbreviation" > hozzárendel: Ctrl-í
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
@@ -64,8 +64,8 @@
 
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
-1. Parancsor (CMD.EXE) indítása
-2. Szülő könyvtár kijelőlése pl.: cd D:\HTMLprojektek
+1. Parancssor (CMD.EXE) indítása
+2. Szülő könyvtár kijelölése pl.: cd D:\HTMLprojektek
 3. git clone https://github.com/nitslaszlo/JedlikHtmlCssJsTemplate
 4. Project mappa átnevezése pl.: ren JedlikHtmlCssJsTemplate myNewHtmlProject
 5. cd myNewHtmlProject
