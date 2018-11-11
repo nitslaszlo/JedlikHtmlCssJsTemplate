@@ -33,7 +33,7 @@
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 8.  Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt 7db kiterjesztés:
+## Javasolt 8 darab kiterjesztés:
 
 1. Auto Rename Tag<br>
    https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
@@ -68,12 +68,13 @@
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
 1. Parancssor (CMD.EXE) indítása
-2. Szülő könyvtár kijelölése pl.: cd D:\HTMLprojektek
-3. git clone https://github.com/nitslaszlo/JedlikHtmlCssJsTemplate
-4. Project mappa átnevezése pl.: ren JedlikHtmlCssJsTemplate myNewHtmlProject
-5. cd myNewHtmlProject
-6. ".git" mappa törlése: rd /s /q .git
-7. VS Code indítása: code .
+2. Aktuáls meghajtó váltása: pl.: D: (enter)
+3. Szülő könyvtár kijelölése pl.: cd D:\HTMLprojektek
+4. git clone https://github.com/nitslaszlo/JedlikHtmlCssJsTemplate
+5. Project mappa átnevezése pl.: ren JedlikHtmlCssJsTemplate myNewHtmlProject
+6. cd myNewHtmlProject
+7. ".git" mappa törlése: rd /s /q .git
+8. VS Code indítása: code .
 
 ## Hasznos linkek:
 
