@@ -18,6 +18,7 @@
     - Ismétlődő PATH bejegyzések törlése a Rendszerváltozóknál
     - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
       - "C:\Program Files\nodejs\"
+      - "C:\Program Files\Git\cmd"
       - "%LocalAppData%\Programs\Microsoft VS Code\bin"
       - "%APPDATA%\npm"
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
