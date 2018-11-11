@@ -22,7 +22,7 @@
       - "%APPDATA%\npm"
 6.  VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X<br>
     Kiterjesztés keresése, telepítés:<br>
-    Javasolt (7db) kiterjesztéseket lsd. lejjebb!<br>
+    Javasolt (8db) kiterjesztéseket lsd. lejjebb!<br>
     (opcionális: további kiterjesztések telepítése igény szerint)
 7.  Billentyűkombinációk beállítása (opcionális):<br>
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S<br>
@@ -61,6 +61,9 @@
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el<br>
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
+
+8. vscode-pdf<br>
+    https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf<br>
 
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
