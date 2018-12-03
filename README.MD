@@ -63,8 +63,8 @@
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el<br>
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-8. vscode-pdf<br>
-    https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf<br>
+8. LaTeX Workshop<br>
+    https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop<br>
 
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
