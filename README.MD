@@ -11,27 +11,18 @@
 4. Visual Studio Code (User Installer) telepítése:  
     <https://code.visualstudio.com/Download>  
     (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
-5. Jedlikes AD hiba - PATH "megtelik..."
-    Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm" vagy  
-    "code ." parancs nem található:  
-    - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
-    - Ismétlődő PATH bejegyzések törlése a Rendszerváltozóknál
-    - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
-      - "C:\Program Files\nodejs\"
-      - "C:\Program Files\Git\cmd"
-      - "%LocalAppData%\Programs\Microsoft VS Code\bin"
-      - "%APPDATA%\npm"
-6. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
+5. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
     Kiterjesztés keresése, telepítés:  
     Javasolt (8db) kiterjesztéseket lsd. lejjebb!  
     (opcionális: további kiterjesztések telepítése igény szerint)
-7. Billentyűkombinációk beállítása (opcionális):  
+6. Billentyűkombinációk beállítása (opcionális):  
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S  
     Parancs keresése: gépeléssel  
     Hozzárendelés, módosítás: "ceruza" ikonra kattintással, törlés: Del bill.  
     - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
     - gépel: "wrap" > parancs: "Wrap with Individual Lines with Abbreviation" > hozzárendel: Ctrl-í
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
+7. File\Auto Save -> Autómatikus mentés bekapcsolása
 8. Opcionális: VSCode beállítása: lsd. az oldal végén
 
 ## Javasolt 8 darab kiterjesztés
@@ -63,7 +54,7 @@
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-8. LaTeX Workshop  
+8. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval) 
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
@@ -119,3 +110,14 @@
 4. Preferences: "Open User Settings" a felhasználónált tárolt beállításokhoz  
    Konfig fájl workspace: projekt/.vscode/settings.json  
    Konfig fájl user: c:/Users/nitslaszlo/AppData/Roaming/Code/User/settings.json
+
+## AD hiba a Jedlik ikolában - PATH "megtelik..."
+
+Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm" vagy  "code ." parancs nem található:
+    - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
+    - Ismétlődő PATH bejegyzések törlése a Rendszerváltozóknál
+    - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
+      - "C:\Program Files\nodejs\"
+      - "C:\Program Files\Git\cmd"
+      - "%LocalAppData%\Programs\Microsoft VS Code\bin"
+      - "%APPDATA%\npm"
