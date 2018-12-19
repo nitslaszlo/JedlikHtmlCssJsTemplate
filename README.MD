@@ -5,7 +5,7 @@
 1. Node.js letöltése, telepítése:  
     <https://nodejs.org/en/download/>
 2. Node.js command prompt, globális Node.js csomag telepítése:  
-    "npm install -g htmlhint" paranccsal
+    "npm install -g htmlhint" paranccsal  
     "npm install -g jshint" paranccsal
 3. Git for windows telepítése (opcionális, git-hez):  
     <https://git-for-windows.github.io/>
@@ -48,7 +48,7 @@
 6. HTMLHint  
    <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>  
     Telepíteni kellett korábban hozzá: npm install -g htmlhint
-    
+
 7. JSHint  
     <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
     Telepíteni kellett korábban hozzá: npm install -g jshint
