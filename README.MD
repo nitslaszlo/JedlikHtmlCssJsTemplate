@@ -2,8 +2,8 @@
 
 ## Fejlesztői környezet telepítése, beállítása (Windows)
 
-1.  Node.js letöltése, telepítése:<br>
-    https://nodejs.org/en/download/
+1. Node.js letöltése, telepítése:  
+   https://nodejs.org/en/download/
 2.  Node.js command prompt, globális Node.js csomag telepítése:<br>
     "npm install -g htmlhint" paranccsal<br>
 3.  Git for windows telepítése (opcionális, git-hez):<br>
