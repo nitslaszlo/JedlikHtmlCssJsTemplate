@@ -54,7 +54,7 @@
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-8. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval) 
+8. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval)  
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
@@ -114,7 +114,7 @@
 ## AD hiba a Jedlik ikolában - PATH "megtelik..."
 
 Keresési útvonal (path) bővítése, ha a parancssorból (CMD.EXE) kiadott "npm" vagy  "code ." parancs nem található:
-    - Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
+- Vezérlőpult/Rendszer/Speciális rendszerbeállítások/Speciális fül/Környezeti változók/Path/Rendszerváltozók
     - Ismétlődő PATH bejegyzések törlése a Rendszerváltozóknál
     - Új bejegyzések (felhasználói) hozzáadása, ha hiányoznak (idézőjelek nélkül):
       - "C:\Program Files\nodejs\"
