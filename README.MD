@@ -70,13 +70,13 @@
 
 ## Hasznos linkek
 
-- <https://code.visualstudio.com/docs/languages/html><>
-- <https://code.visualstudio.com/docs/languages/css><>
-- <https://code.visualstudio.com/docs/languages/javascript><>
-- <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf><>
-- <https://github.com/Microsoft/vscode-tips-and-tricks><>
-- <https://git-scm.com/book/en/v2><>
-- <https://help.github.com/articles/basic-writing-and-formatting-syntax/><>
+- <https://code.visualstudio.com/docs/languages/html>
+- <https://code.visualstudio.com/docs/languages/css>
+- <https://code.visualstudio.com/docs/languages/javascript>
+- <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
+- <https://github.com/Microsoft/vscode-tips-and-tricks>
+- <https://git-scm.com/book/en/v2>
+- <https://help.github.com/articles/basic-writing-and-formatting-syntax/>
 
 ## Verziókezelés Git-el VS Code-ban (nagyon alap, opcionális)
 
