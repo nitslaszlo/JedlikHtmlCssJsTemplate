@@ -14,7 +14,7 @@
     (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
 5. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
     Kiterjesztés keresése, telepítés:  
-    Javasolt (9db) kiterjesztéseket lsd. lejjebb!  
+    Javasolt (8+1db) kiterjesztéseket lsd. lejjebb!  
     (opcionális: további kiterjesztések telepítése igény szerint)
 6. Billentyűkombinációk beállítása (opcionális):  
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S  
@@ -59,7 +59,7 @@
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-9. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval)  
+9. LaTeX Workshop (opcionális, kicsit lassú, de korrekt PDF olvasó funkcióval)  
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
