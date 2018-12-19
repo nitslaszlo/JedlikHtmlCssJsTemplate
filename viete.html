@@ -2,7 +2,7 @@
 <html lang="hu">
 
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>Francois Viéte és a másodfokú egyenlet</title>
     <link href="viete.css" rel="stylesheet" />
     <script src="szamol.js"></script>
@@ -10,7 +10,7 @@
 
 <body>
     <h1>Francois Viéte</h1>
-    <h2>(1540-1603)<br>francia matematikus</h2>
+    <h2>(1540-1603)<br />francia matematikus</h2>
     <div class="jobbra">
         <img src="viete.png" style="height: 227px; width: 176px" />
     </div>
@@ -18,13 +18,12 @@
     <p>Foglalkozását tekintve jogász volt. Fiatal korában támadt egy ötlete új csillagászati elmélethez, amely a
         kopernikuszi rendszert fejlesztette volna tovább. Ennek érdekében kezdett el a matematikával foglalkozni.
         Tehetséges emberként kezdetben jogászként is sikeres pályája volt. III. Henrik, majd IV. Henrik francia király
-        ügyésze és tanácsosa
-        volt. Később kegyvesztett lett.</p>
+        ügyésze és tanácsosa volt. Később kegyvesztett lett.</p>
     <h3>Munkásságáról</h3>
     <ul>
         <li>Kezdetben elsősorban trigonometriával foglalkozott.</li>
         <li>1584 és 1589 között, kegyvesztettsége idején írta meg fő művét az In artem analyticam isagoge-t. (Bevezetés
-            az analízis tudományába). </li>
+            az analízis tudományába).</li>
         <li>Ez egy befejezetlensége ellenére is hatalmas munka, benne új algebrai megoldásokkal. Az egyenletmegoldás
             általános módszereit kereste. Ezért a Diophantosz által megkezdett úton az algebrai jelölésrendszert
             fejlesztette tovább.</li>
@@ -35,17 +34,17 @@
         <li>Másodfokú egyenletek gyökök és együtthatók kapcsolatát megadó képletek, a Viete-formulák is őrzik a nevét.</li>
     </ul>
     <h3>A másodfokú egyenlet</h3>
-    <p>A másodfokú egyenlet általános alakja ax<sup>2</sup>+bx+c=0.<br>Megoldó képlet:</p>
+    <p>A másodfokú egyenlet általános alakja ax<sup>2</sup>+bx+c=0.<br />Megoldó képlet:</p>
     <p>Ahol a gyök alatt álló kifejezés a diszkrimináns (D), ami meghatározza a valós gyökök számát.<br>
         Ha D&lt;0, akkor nincs megoldás, ha d=0, akkor egy megoldás, ha d&gt;0, akkor két megoldás van.</p>
     <p class="keplet"><img src="megoldokeplet.png" /></p>
     <p>
         <label for="a">a=</label>
-        <input type="text" id="a" style="width: 4em" />
+        <input type="text" id="a" />
         <label for="b">b=</label>
-        <input type="text" id="b" style="width: 4em" />
+        <input type="text" id="b" />
         <label for="c">c=</label>
-        <input type="text" id="c" style="width: 4em" />
+        <input type="text" id="c" />
         <input type="button" value="Számol" onclick="szamol()" />
     </p>
     <h3>A valós gyökök száma:<span id="gysz">?</span></h3>
