@@ -30,7 +30,7 @@
     Parancs keresése: gépeléssel  
     Hozzárendelés, módosítás: "ceruza" ikonra kattintással, törlés: Del bill.  
     - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
-    - gépel: "wrap" > parancs: "Wrap with Abbreviation" > hozzárendel: Ctrl-í
+    - gépel: "wrap" > parancs: "Wrap with Individual Lines with Abbreviation" > hozzárendel: Ctrl-í
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
 8. Opcionális: VSCode beállítása: lsd. az oldal végén
 
