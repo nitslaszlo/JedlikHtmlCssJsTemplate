@@ -5,7 +5,8 @@
 1. Node.js letöltése, telepítése:  
     <https://nodejs.org/en/download/>
 2. Node.js command prompt, globális Node.js csomag telepítése:  
-    "npm install -g htmlhint" paranccsal  
+    "npm install -g htmlhint" paranccsal
+    "npm install -g jshint" paranccsal
 3. Git for windows telepítése (opcionális, git-hez):  
     <https://git-for-windows.github.io/>
 4. Visual Studio Code (User Installer) telepítése:  
@@ -13,7 +14,7 @@
     (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
 5. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
     Kiterjesztés keresése, telepítés:  
-    Javasolt (8db) kiterjesztéseket lsd. lejjebb!  
+    Javasolt (9db) kiterjesztéseket lsd. lejjebb!  
     (opcionális: további kiterjesztések telepítése igény szerint)
 6. Billentyűkombinációk beállítása (opcionális):  
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S  
@@ -46,15 +47,19 @@
 
 6. HTMLHint  
    <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>  
-    Telepíteni kellett korábban hozzá: npm install -g htmlhint  
+    Telepíteni kellett korábban hozzá: npm install -g htmlhint
+    
+7. JSHint  
+    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
+    Telepíteni kellett korábban hozzá: npm install -g jshint
 
-7. Live Server  
+8. Live Server  
     <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
 
-8. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval)  
+9. LaTeX Workshop (kicsit lassú, de korrekt PDF olvasó funkcióval)  
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
