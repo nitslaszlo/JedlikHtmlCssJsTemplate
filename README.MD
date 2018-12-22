@@ -4,7 +4,7 @@
 
 1. Node.js letöltése, telepítése:  
     <https://nodejs.org/en/download/>
-2. Node.js command prompt, globális Node.js csomag telepítése:  
+2. Node.js command prompt, globális Node.js csomagok telepítése:  
     "npm install -g htmlhint" paranccsal  
     "npm install -g jshint" paranccsal
 3. Git for windows telepítése (opcionális, git-hez):  
@@ -14,7 +14,7 @@
     (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
 5. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
     Kiterjesztés keresése, telepítés:  
-    Javasolt (8+1db) kiterjesztéseket lsd. lejjebb!  
+    Javasolt (8+1 db) kiterjesztéseket lsd. lejjebb!  
     (opcionális: további kiterjesztések telepítése igény szerint)
 6. Billentyűkombinációk beállítása (opcionális):  
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S  
@@ -23,10 +23,10 @@
     - gépel: "delete" > parancs: "Delete Line" > hozzárendel: Ctrl-L
     - gépel: "wrap" > parancs: "Wrap with Individual Lines with Abbreviation" > hozzárendel: Ctrl-í
     - opcionális: további billentyűkombinációk hozzárendelése tetszés szerint
-7. File\Auto Save -> Autómatikus mentés bekapcsolása
+7. File\Auto Save -> Automatikus mentés bekapcsolása
 8. Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt 8 darab kiterjesztés
+## Javasolt 8+1 darab kiterjesztés
 
 1. Auto Rename Tag  
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
@@ -56,8 +56,9 @@
 8. Live Server  
     <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
-    - Live Server indítása (állapotsorban "Go Live") - Nyomkövetés: F5-el  
-      (.vscode\launch.json fájlban a port (8080) átírása 5500-ra!)
+    - Live Server indítása (állapotsorban "Go Live")
+    - Nyomkövetés indítása: F5-el  
+      (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
 9. LaTeX Workshop (opcionális, kicsit lassú, de korrekt PDF olvasó funkcióval)  
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
