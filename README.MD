@@ -60,8 +60,9 @@
     - Nyomkövetés indítása: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
-9. LaTeX Workshop (opcionális, kicsit lassú, de korrekt PDF olvasó funkcióval)  
-    <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
+9. vscode-pdf (PDF olvasó)
+    https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+      
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
 
