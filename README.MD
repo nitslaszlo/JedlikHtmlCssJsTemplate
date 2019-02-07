@@ -26,7 +26,7 @@
 7. File\Auto Save -> Automatikus mentés bekapcsolása
 8. Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt 8 darab kiterjesztés
+## Javasolt 8+1 darab kiterjesztés
 
 1. Auto Rename Tag  
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
@@ -59,6 +59,10 @@
     - Live Server indítása (állapotsorban "Go Live")
     - Nyomkövetés indítása: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
+
+9. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez)
+    <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
+
       
 
 ## GitHub JedlikHtmlCssJsTemplate repó klónozása
