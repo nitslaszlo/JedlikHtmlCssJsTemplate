@@ -1,8 +1,7 @@
 {
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 1000,
     "editor.formatOnSave": true,
-    "liveServer.settings.file": "viete.html",
+    // "liveServer.settings.file": "viete.html",
     "html.autoClosingTags": false,
     "html.format.wrapLineLength": 0
 }
