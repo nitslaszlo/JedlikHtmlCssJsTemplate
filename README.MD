@@ -120,11 +120,9 @@
 10. "There are no staged ..." kérdésre válaszolj "always"-el
 11. Változások szinkronizálása ("feltöltés")<br>
     Alul a státus sorban balra "Synchronize Changes" ikonra kattint<br>
-    Első alkalommal a GitHub felhasználói nevet vagy e-mail címet és jelszót kér!
-10. Változások szinkronizálása ("feltöltés")<br>
-    Alul a státus sorban balra "Synchronize Changes" (felhő) ikonra kattint<br>
+    Első alkalommal a GitHub felhasználói nevet vagy e-mail címet és jelszót kér!<br>
     Később fel- és letöltésnél egymást "kergető" nyilak lesznek.
-11. A "Would you like Code to periodically run 'git fetch'?"  kérdésére válaszoljunk "yes"-el<br>                    ("git.autofetch": true lesz beállítva, alapértelmezésben 3 percenként ellenőrzi a változásokat)
+12. A "Would you like Code to periodically run 'git fetch'?"  kérdésére válaszoljunk "yes"-el<br>                    ("git.autofetch": true lesz beállítva, alapértelmezésben 3 percenként ellenőrzi a változásokat)
 
 
 ## VS Code editor beállítása
