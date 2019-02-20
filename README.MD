@@ -64,6 +64,7 @@
 10. Spell Right (opcionális, magyar helyesírás ellenőrző)<br>
     <https://marketplace.visualstudio.com/items?itemName=ban.spellright><br>
     Saját szótár definiálása a .vscode\spellright.dict állományban<br>
+    Ellenőrzés be/ki kapcsolása: jobbra lent a státussorban<br>
     Angol (en-GB) szótár telepítése:<br>
     Start menü > Gépház > Idő és nyelv > Nyelv > Nyelv hozzáadása
 
