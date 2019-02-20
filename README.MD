@@ -7,14 +7,14 @@
 2. Node.js command prompt, globális Node.js csomagok telepítése:  
     "npm install -g htmlhint" paranccsal  
     "npm install -g jshint" paranccsal
-3. Git for windows telepítése (opcionális, git-hez):  
+3. Git for Windows telepítése (opcionális, git-hez):  
     <https://git-for-windows.github.io/>
 4. Visual Studio Code (User Installer) telepítése:  
     <https://code.visualstudio.com/Download>  
-    (User installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
+    (User Installer: "%LocalAppData%\Programs\Microsoft VS Code\bin" települ!)
 5. VSCode futtatása, Visual Studio Extensions telepítése: Ctrl-Shift-X  
     Kiterjesztés keresése, telepítés:  
-    Javasolt (8+1 db) kiterjesztéseket lsd. lejjebb!  
+    Javasolt kiterjesztések telepítése lsd. lejjebb!  
     (opcionális: további kiterjesztések telepítése igény szerint)
 6. Billentyűkombinációk beállítása (opcionális):  
     File\Preferences\Keyboard Shortcuts menüvel, vagy Ctrl-K majd Ctrl-S  
@@ -26,7 +26,7 @@
 7. File\Auto Save -> Automatikus mentés bekapcsolása
 8. Opcionális: VSCode beállítása: lsd. az oldal végén
 
-## Javasolt 9 darab kiterjesztés
+## Javasolt kiterjesztések
 
 1. Auto Rename Tag  
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
@@ -51,21 +51,23 @@
    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
    Telepíteni kellett korábban hozzá: npm install -g jshint
 
-8. Live Server  
+8. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez)
+    <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
+
+9. Live Server  
     <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live")
     - Nyomkövetés indítása: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
-9. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez)
-    <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
+10. Spell Right (opcionális, magyar helyesírás ellenőrző)
+    <https://marketplace.visualstudio.com/items?itemName=ban.spellright>
 
-
-## GitHub JedlikHtmlCssJsTemplate repó klónozása
+## GitHub JedlikHtmlCssJsTemplate repository klónozása
 
 1. Parancssor (CMD.EXE) indítása
-2. Aktuáls meghajtó váltása: pl.: D: (enter)
+2. Aktuális meghajtó váltása: pl.: D: (enter)
 3. Szülő könyvtár kijelölése pl.: cd D:\HTMLprojektek
 4. git clone <https://github.com/nitslaszlo/JedlikHtmlCssJsTemplate>
 5. Project mappa átnevezése pl.: ren JedlikHtmlCssJsTemplate myNewHtmlProject
@@ -84,7 +86,7 @@
 - <https://help.github.com/articles/basic-writing-and-formatting-syntax/>
 
 ## Verziókezelés Git-el VS Code-ban (nagyon alap, opcionális)
-1. Github account létrehozása:<br>
+1. GitHub account létrehozása:<br>
    https://github.com/<br>
    (nitslaszlo az account név a példában)
 2. Git repository létrehozása:<br>
@@ -124,8 +126,8 @@
 ## VS Code editor beállítása
 
 1. Ctrl-Shift-P vagy F1
-2. "Preferen..." gépelése
+2. "Preferences..." gépelése
 3. Preferences: "Open Workplace Settings" a projektben tárolt beállításokhoz (ez az erősebb) vagy
-4. Preferences: "Open User Settings" a felhasználónált tárolt beállításokhoz  
-   Konfig fájl workspace: projekt/.vscode/settings.json  
-   Konfig fájl user: c:/Users/nitslaszlo/AppData/Roaming/Code/User/settings.json
+4. Preferences: "Open User Settings" a felhasználónál tárolt beállításokhoz  
+   Beállítások "workspace": projekt/.vscode/settings.json  
+   Beállítások "user": c:/Users/nitslaszlo/AppData/Roaming/Code/User/settings.json
