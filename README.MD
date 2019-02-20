@@ -37,7 +37,7 @@
 3. Debugger for Chrome  
    <https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome>
 
-4. GitLens - Git supercharged (opcionális, extra Git funkciókhoz)
+4. GitLens - Git supercharged (opcionális, extra Git funkciókhoz)<br>
    <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
 
 5. HTML CSS Support  
