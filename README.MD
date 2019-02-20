@@ -61,9 +61,11 @@
     - Nyomkövetés indítása: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
-10. Spell Right (opcionális, magyar helyesírás ellenőrző)
-    <https://marketplace.visualstudio.com/items?itemName=ban.spellright>
-    Saját szótár definiálása a .vscode\spellright.dict állományban
+10. Spell Right (opcionális, magyar helyesírás ellenőrző)<br>
+    <https://marketplace.visualstudio.com/items?itemName=ban.spellright><br>
+    Saját szótár definiálása a .vscode\spellright.dict állományban<br>
+    Angol (en-GB) szótár telepítése:<br>
+    Start menü > Gépház > Idő és nyelv > Nyelv > Nyelv hozzáadása
 
 ## GitHub JedlikHtmlCssJsTemplate repository klónozása
 
