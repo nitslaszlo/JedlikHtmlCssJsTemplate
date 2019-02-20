@@ -63,6 +63,7 @@
 
 10. Spell Right (opcionális, magyar helyesírás ellenőrző)
     <https://marketplace.visualstudio.com/items?itemName=ban.spellright>
+    Saját szótár definiálása a .vscode\spellright.dict állományban
 
 ## GitHub JedlikHtmlCssJsTemplate repository klónozása
 
