@@ -28,44 +28,44 @@
 
 ## Javasolt kiterjesztések
 
-1. Auto Rename Tag  
+1. Auto Rename Tag  (nyitó/záró tag-ek automatikus szinkronja)
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
 
-2. CSS Peek  
+2. CSS Peek  (CSS beállítások vizsgálata, váltás (HTML<->CSS) nélküli szerkesztése)
    <https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek>
 
-3. Debugger for Chrome  
+3. Debugger for Chrome (JavaScript kód nyomkövetése, változók vizsgálata)
    <https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome>
 
-4. GitLens - Git supercharged (opcionális, extra Git funkciókhoz)<br>
+4. GitLens - Git supercharged (opcionális, extra Git szolgáltatások)<br>
    <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
 
-5. HTML CSS Support  
+5. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)
    <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css>
 
-6. HTMLHint  
+6. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó)
    <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>  
     Telepíteni kellett korábban hozzá: npm install -g htmlhint
 
-7. JSHint  
+7. JSHint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
    Telepíteni kellett korábban hozzá: npm install -g jshint
 
 8. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez, lassan tölt be, de nincs jobb)<br>
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
 
-9. Live Server  
+9. Live Server (HTTP szerver, változások frissítés nélkül megjelennek)
     <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live")
     - Nyomkövetés indítása: F5-el  
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
-10. Spell Right (opcionális, magyar helyesírás ellenőrző)<br>
+10. Spell Right (opcionális, magyar-angol-stb. helyesírás ellenőrző)<br>
     <https://marketplace.visualstudio.com/items?itemName=ban.spellright><br>
     Saját szótár definiálása a .vscode\spellright.dict állományban<br>
     Ellenőrzés be/ki kapcsolása: jobbra lent a státussorban<br>
-    Angol (en) szótár telepítése:<br>
+    Angol (en), vagy tetszőleges nyelv(ek) (szótár) telepítése:<br>
     Start menü > Gépház > Idő és nyelv > Nyelv > Nyelv hozzáadása
 
 ## GitHub JedlikHtmlCssJsTemplate repository klónozása
