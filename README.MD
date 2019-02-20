@@ -51,7 +51,7 @@
    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
    Telepíteni kellett korábban hozzá: npm install -g jshint
 
-8. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez)
+8. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez)<br>
     <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
 
 9. Live Server  
