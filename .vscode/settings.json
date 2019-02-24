@@ -6,17 +6,5 @@
     "git.enableSmartCommit": true,
     "html.autoClosingTags": false,
     "html.format.wrapLineLength": 0,
-    "spellright.language": [
-        "hu",
-        "en"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext",
-        "html",
-        "javascript",
-        "css"
-    ],
-    "spellright.notificationClass": "information"
+    "spellright.notificationClass": "information",
 }

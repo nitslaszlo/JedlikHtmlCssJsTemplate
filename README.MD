@@ -31,28 +31,28 @@
 1. Auto Rename Tag  (nyitó/záró tag-ek automatikus szinkronja)
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
 
-2. CSS Peek  (CSS beállítások vizsgálata, váltás (HTML<->CSS) nélküli szerkesztése)
+2. Beautify (HTML, CSS, JS kód formázó)
+   <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify>
+
+3. CSS Peek  (CSS beállítások vizsgálata, váltás (HTML<->CSS) nélküli szerkesztése)
    <https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek>
 
-3. Debugger for Chrome (JavaScript kód nyomkövetése, változók vizsgálata)
+4. Debugger for Chrome (JavaScript kód nyomkövetése, változók vizsgálata)
    <https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome>
 
-4. GitLens - Git supercharged (opcionális, extra Git szolgáltatások)<br>
+5. GitLens - Git supercharged (opcionális, extra Git szolgáltatások)<br>
    <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
 
-5. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)
+6. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)
    <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css>
 
-6. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó)
+7. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó)
    <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>  
     Telepíteni kellett korábban hozzá: npm install -g htmlhint
 
-7. JSHint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
+8. JSHint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
    Telepíteni kellett korábban hozzá: npm install -g jshint
-
-8. LaTeX Workshop (opcionális, PDF állományok megjelenítéséhez, lassan tölt be, de nincs jobb)<br>
-    <https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>
 
 9. Live Server (HTTP szerver, változások frissítés nélkül megjelennek)
     <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
