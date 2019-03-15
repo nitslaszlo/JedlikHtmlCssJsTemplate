@@ -1,6 +1,6 @@
 # HTML oldalak szerkesztése Visual Studio Code-al
 
-## Fejlesztői környezet telepítése, beállítása (Windows)
+## Fejlesztői környezet telepítése, beállítása (Windows 10) 
 
 1. Node.js letöltése, telepítése:  
     <https://nodejs.org/en/download/>
