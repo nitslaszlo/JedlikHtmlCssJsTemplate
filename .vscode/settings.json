@@ -8,13 +8,10 @@
     "html.format.wrapLineLength": 0,
     "spellright.notificationClass": "information",
     "spellright.language": [
-        "en",
         "hu"
     ],
     "spellright.documentTypes": [
-        "markdown",
         "latex",
-        "plaintext",
-        "html"
+        "plaintext"
     ],
 }

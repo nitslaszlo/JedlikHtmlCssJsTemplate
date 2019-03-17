@@ -28,37 +28,37 @@
 
 ## Javasolt kiterjesztések
 
-1. Auto Rename Tag  (nyitó/záró tag-ek automatikus szinkronja)
+1. Auto Rename Tag  (nyitó/záró tag-ek automatikus szinkronja)<br>
    <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>
 
-2. Beautify (HTML, CSS, JS kód formázó)
+2. Beautify (HTML, CSS, JS kód formázó)<br>
    <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify>
 
-3. CSS Peek  (CSS beállítások vizsgálata, váltás (HTML<->CSS) nélküli szerkesztése)
+3. CSS Peek  (CSS beállítások vizsgálata, váltás (HTML<->CSS) nélküli szerkesztése)<br>
    <https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek>
 
-4. Debugger for Chrome (JavaScript kód nyomkövetése, változók vizsgálata)
+4. Debugger for Chrome (JavaScript kód nyomkövetése, változók vizsgálata)<br>
    <https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome>
 
 5. GitLens - Git supercharged (opcionális, extra Git szolgáltatások)<br>
    <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
 
-6. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)
+6. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)<br>
    <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css>
 
-7. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó, FIGYELEM KÉT VERZIÓ!!! a "New Future" -kell)
-   <https://marketplace.visualstudio.com/items?itemName=newfuture.htmlhint>
+7. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó, FIGYELEM KÉT VERZIÓ!!! a "New Future" -kell)<br>
+   <https://marketplace.visualstudio.com/items?itemName=newfuture.htmlhint><br>
     Telepíteni kellett korábban hozzá: npm install -g htmlhint
 
-8. jshint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
-   <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
+8. jshint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)<br>
+   <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint><br>
    Telepíteni kellett korábban hozzá: npm install -g jshint
 
-9. Live Server (HTTP szerver, változások frissítés nélkül megjelennek)
-    <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>  
+9. Live Server (HTTP szerver, változások frissítés nélkül megjelennek)<br>
+    <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer><br> 
     - Töréspontok elhelyezése a JavaScript kódban (csak external JS-ben lehet)
     - Live Server indítása (állapotsorban "Go Live")
-    - Nyomkövetés indítása: F5-el  
+    - Nyomkövetés indítása: F5-el<br>
       (.vscode\launch.json fájlban a port (8080) átírása 5500-ra az első indítás után!)
 
 10. Spell Right (opcionális, magyar-angol-stb. helyesírás ellenőrző)<br>
