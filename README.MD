@@ -46,11 +46,11 @@
 6. HTML CSS Support  (HTML, CSS attribútumok, jellemzők, értékek kiegészítése)
    <https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css>
 
-7. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó)
-   <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>  
+7. HTMLHint (HTML kód ellenőrzése, jelzés, ha valami nem jó, FIGYELEM KÉT VERZIÓ!!! a "New Future" -kell)
+   <https://marketplace.visualstudio.com/items?itemName=newfuture.htmlhint>
     Telepíteni kellett korábban hozzá: npm install -g htmlhint
 
-8. JSHint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
+8. jshint (JavaScript kód ellenőrzése, jelzés, ha valami nem jó)
    <https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint>  
    Telepíteni kellett korábban hozzá: npm install -g jshint
 
